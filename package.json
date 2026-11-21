@@ -1,0 +1,1 @@
+{"description":"A faster drop-in for csv-reader 1.0.0, for the make.fun bounty 'Read broken CSV files faster, 21 November 2026'.","license":"MIT","main":"main.ts","name":"csv-reader-speed","type":"module","version":"1.0.0"}
